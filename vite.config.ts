@@ -8,7 +8,6 @@ export default defineConfig({
   },
   build: {
     rollupOptions: {
-      external: ['/src/main.tsx'],
       input: {
         main: '/index.html',
       },
