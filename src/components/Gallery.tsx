@@ -4,55 +4,55 @@ import { X } from 'lucide-react';
 const galleryImages = [
   {
     id: 1,
-    src: "src/pics/presentation.jpg",
+    src: "/public/presentation.jpg",
     title: "Book Review",
     description: "Our book review sessions ignite imaginations, turning readers into thoughtful critics and confident speakers. Through public speaking, students learn to inspire, lead, and engage — preparing them to take the spotlight wherever life takes them."
   },
   {
     id: 2,
-    src: "src/pics/dance.jpg",
+    src: "/public/dance.jpg",
     title: "Dance, Music and Arts",
     description: "From brush strokes on a canvas to the soaring melodies of music and the dancing steps, our arts programs let students express who they are and explore endless creative possibilities."
   },
   {
     id: 3,
-    src: "src/pics/futsal.jpg",
+    src: "/public/futsal.jpg",
     title: "Futsal Ground & Basketball Court ",
     description: "Where champions are made and team spirit thrives. Whether dribbling a basketball or scoring goals on the futsal ground, our sports facilities are a playground for fitness, fun, and friendship."
   },
   {
     id: 4,
-    src: "src/pics/sketing.jpg",
+    src: "/public/sketing.jpg",
     title: "Roller Skating ",
     description: "Our skating rink is the perfect spot for students to roll into action. From beginners finding their feet to pros showing off their moves, there's room for everyone to glide their way to greatness."
   },
   {
     id: 5,
-    src: "src/pics/meditation.jpg",
+    src: "/public/meditation.jpg",
     title: "Yoga and Meditation",
     description: "We provide a tranquil space for students to reconnect with themselves. Through guided yoga sessions and meditation practices, students cultivate mindfulness, build focus, and develop emotional resilience for a balanced, healthy life."
   },
   {
     id: 6,
-    src: "src/pics/swimming.jpg",
+    src: "/public/swimming.jpg",
     title: "Swimming",
     description: "The school schedules swimming sessions for students during the summer season, allowing them to improve their swimming skills, build endurance, learn water safety, and gain confidence in the water."
   },
   {
     id: 7,
-    src: "src/pics/sketing.jpg",
+    src: "/public/sketing.jpg",
     title: "Field Trips ",
     description: "The school organizes field trips to provide students with hands-on learning experiences outside the classroom, fostering curiosity, teamwork, and a deeper understanding of various subjects."
   },
   {
     id: 8,
-    src: "src/pics/scout.jpg",
+    src: "/public/scout.jpg",
     title: "School Clubs",
     description: "The school offers a variety of clubs, including English, Nepali Literature, and STEM, providing students with opportunities to explore their interests, enhance their skills, and engage in creative and intellectual activities beyond the regular curriculum."
   },
   {
     id: 9,
-    src: "src/pics/horseride.jpg",
+    src: "/public/horseride.jpg",
     title: "Horse Riding",
     description: "The school offers horse riding sessions where students learn essential riding skills, develop balance and coordination, and build confidence while enjoying an exciting and unique activity."
   }
