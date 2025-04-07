@@ -5,17 +5,17 @@ import Newsletter from '../components/Newsletter';
 
 const slides = [
   {
-    image: "src/pics/basketball.jpg",
+    image: "./src/pics/basketball.jpg",
     title: "Basketball",
     description: "Students playing basketball"
   },
   {
-    image: "src/pics/dance.jpg",
+    image: "./src/pics/dance.jpg",
     title: "",
     description: ""
   },
   {
-    image: "src/pics/holi.jpg",
+    image: "./src/pics/holi.jpg",
     title: "",
     description: ""
   }
