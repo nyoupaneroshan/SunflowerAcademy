@@ -4,97 +4,97 @@ import Newsletter from '../components/Newsletter';
 
 const categories = [
   "All",
-  "Classrooms",
   "Labs",
+  "School Life",
   "Sports",
-  "Events",
-  "Campus Life"
+  "Checkup",
+  "Celebration"
 ];
 
 const galleryImages = [
   {
     id: 1,
-    src: "src/pics/futsal.jpg",
+    src: "https://raw.githubusercontent.com/nyoupaneroshan/SunflowerAcademy/refs/heads/main/public/futsal.jpg",
     title: "Futsal",
     description: "",
     category: "Sports"
   },
   {
     id: 2,
-    src: "src/pics/basketball.jpg",
-    title: "Science Lab",
-    description: "Fully equipped science laboratory for practical learning and experiments.",
-    category: "Labs"
+    src: "https://raw.githubusercontent.com/nyoupaneroshan/SunflowerAcademy/refs/heads/main/public/dashain.jpg",
+    title: "Dashain Celebration",
+    description: "Dashain celebration at school.",
+    category: "Celebration"
   },
   {
     id: 3,
-    src: "src/pics/basketball.jpg",
+    src: "https://raw.githubusercontent.com/nyoupaneroshan/SunflowerAcademy/refs/heads/main/public/presentation.jpg",
     title: "Library",
     description: "Extensive collection of books, journals, and digital resources.",
     category: "Labs"
   },
   {
     id: 4,
-    src: "src/pics/basketball.jpg",
-    title: "Sports Facilities",
-    description: "Modern sports facilities including basketball court, football field, and indoor games.",
-    category: "Sports"
+    src: "https://raw.githubusercontent.com/nyoupaneroshan/SunflowerAcademy/refs/heads/main/public/holi.jpg",
+    title: "Holi Celebration",
+    description: "Holi celebration at school.",
+    category: "Celebration"
   },
   {
     id: 5,
-    src: "src/pics/basketball.jpg",
-    title: "Computer Lab",
-    description: "Modern computer lab with latest hardware and software for digital learning.",
-    category: "Labs"
+    src: "https://raw.githubusercontent.com/nyoupaneroshan/SunflowerAcademy/refs/heads/main/public/checkup.jpg",
+    title: "Health Checkup",
+    description: "Regular health checkup for students.",
+    category: "Checkup"
   },
   {
     id: 6,
-    src: "src/pics/basketball.jpg",
-    title: "Playground",
+    src: "https://raw.githubusercontent.com/nyoupaneroshan/SunflowerAcademy/refs/heads/main/public/horseride.jpg",
+    title: "Sports",
     description: "Spacious playground for outdoor activities and physical education.",
     category: "Sports"
   },
   {
     id: 7,
-    src: "src/pics/basketball.jpg",
+    src: "https://raw.githubusercontent.com/nyoupaneroshan/SunflowerAcademy/refs/heads/main/public/dance.jpg",
     title: "Annual Day Celebration",
     description: "Students showcasing their talents during our annual day celebration.",
     category: "Events"
   },
   {
     id: 8,
-    src: "src/pics/basketball.jpg",
-    title: "Campus Life",
-    description: "Students enjoying their time in our beautiful campus environment.",
-    category: "Campus Life"
+    src: "https://raw.githubusercontent.com/nyoupaneroshan/SunflowerAcademy/refs/heads/main/public/school-line.jpg",
+    title: "School Life",
+    description: "Students enjoying their time in our beautiful school environment.",
+    category: "School Life"
   },
   {
     id: 9,
-    src: "src/pics/basketball.jpg",
-    title: "Study Groups",
+    src: "https://raw.githubusercontent.com/nyoupaneroshan/SunflowerAcademy/refs/heads/main/public/scout.jpg",
+    title: "Activities",
     description: "Students participating in collaborative learning sessions.",
-    category: "Campus Life"
+    category: "Events"
   },
   {
     id: 10,
-    src: "src/pics/basketball.jpg",
-    title: "Chemistry Lab",
-    description: "Students conducting experiments in our well-equipped chemistry lab.",
+    src: "https://raw.githubusercontent.com/nyoupaneroshan/SunflowerAcademy/refs/heads/main/public/plantation.jpg",
+    title: "Activities",
+    description: "Students conducting tree plantation program.",
     category: "Labs"
   },
   {
     id: 11,
-    src: "src/pics/basketball.jpg",
+    src: "https://raw.githubusercontent.com/nyoupaneroshan/SunflowerAcademy/refs/heads/main/public/futsal.jpg",
     title: "Sports Day",
     description: "Annual sports day celebrations with various athletic events.",
     category: "Events"
   },
   {
     id: 12,
-    src: "src/pics/basketball.jpg",
-    title: "Smart Classroom",
+    src: "https://raw.githubusercontent.com/nyoupaneroshan/SunflowerAcademy/refs/heads/main/public/swimming.jpg",
+    title: "Swimming",
     description: "Interactive learning environment with modern educational technology.",
-    category: "Classrooms"
+    category: "Events"
   }
 ];
 

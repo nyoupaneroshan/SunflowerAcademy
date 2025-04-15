@@ -5,17 +5,17 @@ import Newsletter from '../components/Newsletter';
 
 const slides = [
   {
-    image: "./public/basketball.jpg",
+    image: "https://raw.githubusercontent.com/nyoupaneroshan/SunflowerAcademy/refs/heads/main/public/basketball.jpg",
     title: "Basketball",
     description: "Students playing basketball"
   },
   {
-    image: "./public/dance.jpg",
+    image: "https://raw.githubusercontent.com/nyoupaneroshan/SunflowerAcademy/refs/heads/main/public/dance.jpg",
     title: "",
     description: ""
   },
   {
-    image: "./public/holi.jpg",
+    image: "https://raw.githubusercontent.com/nyoupaneroshan/SunflowerAcademy/refs/heads/main/public/holi.jpg",
     title: "",
     description: ""
   }
