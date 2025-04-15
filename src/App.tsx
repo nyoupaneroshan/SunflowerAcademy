@@ -20,7 +20,7 @@ function App() {
                 <Link to="/" className="flex items-center space-x-2">
                   {/* <Sun className="h-8 w-8 text-secondary" /> */}
                   <span className="text-xl font-bold text-white flex items-center gap-1">
-  <img src="/public/main-logo.png" alt="Sunflower Academy Logo here" className="h-12 w-auto" />
+  <img src="https://raw.githubusercontent.com/nyoupaneroshan/SunflowerAcademy/refs/heads/main/public/main-logo.png" alt="Sunflower Academy Logo here" className="h-12 w-auto" />
   Sunflower Academy
 </span>
                 </Link>
