@@ -75,17 +75,12 @@ function App() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
               <div>
-                <h3 className="text-lg font-semibold mb-4">Sunshine Academy</h3>
+                <h3 className="text-lg font-semibold mb-4">Sunflower Academy</h3>
                 <p className="text-gray-300">Inspiring Excellence Building Future</p><br></br>
                 <p className="text-lg font-semibold mb-4">Grades Offered</p>
                 <p className="text-gray-300">Pre-Primary: Playgroup to UKg</p>
                 <p className="text-gray-300">Basic: Grade 1 to Grade 8</p>
                 <p className="text-gray-300">Secondary: Grade 9 to Grade 10</p>
-                
-
-
-
-
               </div>
               <div>
                 <h3 className="text-lg font-semibold mb-4">Quick Links</h3>
@@ -106,7 +101,7 @@ function App() {
               </div>
             </div>
             <div className="mt-8 pt-8 border-t border-primary-light text-center">
-              <p className="text-gray-300">&copy; {new Date().getFullYear()} Sunshine Academy. All rights reserved.</p>
+              <p className="text-gray-300">&copy; {new Date().getFullYear()} Sunflower Academy. All rights reserved.</p>
             </div>
           </div>
         </footer>

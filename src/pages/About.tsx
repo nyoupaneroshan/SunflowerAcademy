@@ -16,7 +16,7 @@ function About() {
         </div>
         <div className="relative h-full flex items-center justify-center text-center">
           <div className="max-w-3xl px-4">
-            <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">About Sunshine Academy</h1>
+            <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">About Sunflower Academy</h1>
             <p className="text-xl text-white">
               Empowering students with knowledge, skills, and values to succeed in an ever-changing world.
             </p>
