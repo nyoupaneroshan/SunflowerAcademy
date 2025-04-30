@@ -4,7 +4,7 @@ import { Sun, Menu, X } from 'lucide-react';
 import Home from './pages/Home';
 import About from './pages/About';
 import Contact from './pages/Contact';
-import News from './pages/News';
+// import News from './pages/News';
 import GalleryPage from './pages/Gallery';
 
 function App() {
@@ -41,7 +41,7 @@ function App() {
                 <Link to="/" className="text-white hover:text-secondary">Home</Link>
                 <Link to="/about" className="text-white hover:text-secondary">About</Link>
                 <Link to="/gallery" className="text-white hover:text-secondary">Gallery</Link>
-                <Link to="/news" className="text-white hover:text-secondary">News</Link>
+                {/* <Link to="/news" className="text-white hover:text-secondary">News</Link> */}
                 <Link to="/contact" className="text-white hover:text-secondary">Contact</Link>
               </div>
             </div>
