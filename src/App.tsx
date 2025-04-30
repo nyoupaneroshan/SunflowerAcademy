@@ -54,7 +54,7 @@ function App() {
                 <Link to="/" className="block px-3 py-2 text-white hover:text-secondary">Home</Link>
                 <Link to="/about" className="block px-3 py-2 text-white hover:text-secondary">About</Link>
                 <Link to="/gallery" className="block px-3 py-2 text-white hover:text-secondary">Gallery</Link>
-                <Link to="/news" className="block px-3 py-2 text-white hover:text-secondary">News</Link>
+                {/* <Link to="/news" className="block px-3 py-2 text-white hover:text-secondary">News</Link> */}
                 <Link to="/contact" className="block px-3 py-2 text-white hover:text-secondary">Contact</Link>
               </div>
             </div>
