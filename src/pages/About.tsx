@@ -100,13 +100,17 @@ function About() {
             </div>
             <div className="space-y-4">
               <p className="text-gray-600">
-                Founded in 1995, Sunshine Academy has grown from a small local school to a renowned
-                educational institution. Over the years, we have consistently evolved our teaching
-                methods and facilities to meet the changing needs of our students.
+               Sunflower Academy was established in 2061 B.S. with classes from Nursery to Grade 5, founded through the dedication and vision of Chairman Mr. Uddhab Bogati and Founder Member Mr. Ram Bahadur Gautam. Their efforts laid the groundwork for a school committed to academic excellence and holistic development.
+
               </p>
               <p className="text-gray-600">
-                Today, we continue to build on our rich heritage while embracing modern educational
-                practices and technology to prepare our students for the challenges of tomorrow.
+                The academy proudly celebrated its first batch of School Leaving Certificate (SLC) graduates in 2065 B.S. Over the years, Sunflower Academy has continued to grow in both size and reputation. In 2081 B.S., we marked a major milestone with the graduation of our 17th batch of Secondary Education Examination (SEE) students.
+              </p>
+              <p className="text-gray-600">
+                Today, more than 1,000 students are part of the Sunflower Academy family, learning in a nurturing and progressive environment. In recognition of our commitment to global standards, we were awarded the World Schools League certificate in 2081 B.S., officially recognizing Sunflower Academy as an international school.
+              </p>
+              <p className="text-gray-600">
+                As we move forward, we continue to embrace progressive education—fostering critical thinking, creativity, and lifelong learning to prepare our students to lead in an ever-changing world.
               </p>
             </div>
           </div>
